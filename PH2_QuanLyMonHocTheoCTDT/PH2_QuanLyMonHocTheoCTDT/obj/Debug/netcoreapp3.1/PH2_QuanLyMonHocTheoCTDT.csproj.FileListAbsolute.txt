@@ -1,0 +1,13 @@
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\bin\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.exe
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\bin\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.deps.json
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\bin\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.runtimeconfig.json
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\bin\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.runtimeconfig.dev.json
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\bin\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.dll
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\bin\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.pdb
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\obj\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.csprojAssemblyReference.cache
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\obj\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.AssemblyInfoInputs.cache
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\obj\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.AssemblyInfo.cs
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\obj\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.csproj.CoreCompileInputs.cache
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\obj\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.dll
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\obj\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.pdb
+E:\Sources\PRN292_CSharp\PH2_QuanLyMonHocTheoCTDT\PH2_QuanLyMonHocTheoCTDT\obj\Debug\netcoreapp3.1\PH2_QuanLyMonHocTheoCTDT.genruntimeconfig.cache
