@@ -1,0 +1,13 @@
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\bin\Debug\netcoreapp3.1\EX_01_Product.exe
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\bin\Debug\netcoreapp3.1\EX_01_Product.deps.json
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\bin\Debug\netcoreapp3.1\EX_01_Product.runtimeconfig.json
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\bin\Debug\netcoreapp3.1\EX_01_Product.runtimeconfig.dev.json
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\bin\Debug\netcoreapp3.1\EX_01_Product.dll
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\bin\Debug\netcoreapp3.1\EX_01_Product.pdb
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\obj\Debug\netcoreapp3.1\EX_01_Product.csprojAssemblyReference.cache
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\obj\Debug\netcoreapp3.1\EX_01_Product.AssemblyInfoInputs.cache
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\obj\Debug\netcoreapp3.1\EX_01_Product.AssemblyInfo.cs
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\obj\Debug\netcoreapp3.1\EX_01_Product.csproj.CoreCompileInputs.cache
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\obj\Debug\netcoreapp3.1\EX_01_Product.dll
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\obj\Debug\netcoreapp3.1\EX_01_Product.pdb
+D:\Sources\PRN292_CSharp\EX_01_Product\EX_01_Product\obj\Debug\netcoreapp3.1\EX_01_Product.genruntimeconfig.cache

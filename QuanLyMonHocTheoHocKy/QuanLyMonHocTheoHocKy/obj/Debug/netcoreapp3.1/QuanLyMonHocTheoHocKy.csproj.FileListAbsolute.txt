@@ -1,0 +1,13 @@
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\bin\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.exe
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\bin\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.deps.json
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\bin\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.runtimeconfig.json
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\bin\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.runtimeconfig.dev.json
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\bin\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.dll
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\bin\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.pdb
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\obj\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.csprojAssemblyReference.cache
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\obj\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.AssemblyInfoInputs.cache
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\obj\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.AssemblyInfo.cs
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\obj\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.csproj.CoreCompileInputs.cache
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\obj\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.dll
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\obj\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.pdb
+D:\Sources\PRN292_CSharp\QuanLyMonHocTheoHocKy\QuanLyMonHocTheoHocKy\obj\Debug\netcoreapp3.1\QuanLyMonHocTheoHocKy.genruntimeconfig.cache
