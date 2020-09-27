@@ -8,7 +8,7 @@ namespace PH2_QuanLyMonHocTheoCTDT.Manager
 {
     class MonHocManager
     {
-        private const String FILENAME = "./../../MonHoc.dat";
+        private String FILENAME = Directory.GetCurrentDirectory() + "/../../../Data/MonHoc.dat";
         List<MonHoc> listMonHoc;
 
         public MonHocManager()

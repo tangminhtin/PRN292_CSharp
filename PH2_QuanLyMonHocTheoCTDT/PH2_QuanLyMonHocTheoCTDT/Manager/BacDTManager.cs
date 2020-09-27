@@ -8,7 +8,7 @@ namespace PH2_QuanLyMonHocTheoCTDT.Manager
 {
     class BacDTManager
     {
-        private const String FILENAME = "./../../BacDT.dat";
+        private String FILENAME = Directory.GetCurrentDirectory() + "/../../../Data/BacDT.dat";
         private List<BacDT> listBacDT;
 
         public BacDTManager()
