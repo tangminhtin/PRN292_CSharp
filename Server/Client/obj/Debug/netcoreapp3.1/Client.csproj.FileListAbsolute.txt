@@ -1,0 +1,13 @@
+E:\Sources\PRN292_CSharp\Server\Client\bin\Debug\netcoreapp3.1\Client.exe
+E:\Sources\PRN292_CSharp\Server\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+E:\Sources\PRN292_CSharp\Server\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+E:\Sources\PRN292_CSharp\Server\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+E:\Sources\PRN292_CSharp\Server\Client\bin\Debug\netcoreapp3.1\Client.dll
+E:\Sources\PRN292_CSharp\Server\Client\bin\Debug\netcoreapp3.1\Client.pdb
+E:\Sources\PRN292_CSharp\Server\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+E:\Sources\PRN292_CSharp\Server\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+E:\Sources\PRN292_CSharp\Server\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+E:\Sources\PRN292_CSharp\Server\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+E:\Sources\PRN292_CSharp\Server\Client\obj\Debug\netcoreapp3.1\Client.dll
+E:\Sources\PRN292_CSharp\Server\Client\obj\Debug\netcoreapp3.1\Client.pdb
+E:\Sources\PRN292_CSharp\Server\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache

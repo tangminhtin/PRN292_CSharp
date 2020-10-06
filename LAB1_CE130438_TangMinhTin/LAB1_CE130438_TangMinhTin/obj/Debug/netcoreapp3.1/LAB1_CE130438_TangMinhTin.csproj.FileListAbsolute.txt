@@ -1,0 +1,13 @@
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\bin\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.exe
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\bin\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.deps.json
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\bin\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.runtimeconfig.json
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\bin\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.runtimeconfig.dev.json
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\bin\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.dll
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\bin\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.pdb
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\obj\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.csprojAssemblyReference.cache
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\obj\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.AssemblyInfoInputs.cache
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\obj\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.AssemblyInfo.cs
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\obj\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.csproj.CoreCompileInputs.cache
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\obj\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.dll
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\obj\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.pdb
+C:\Users\tangminhtin\Desktop\LAB1_CE130438_TangMinhTin\LAB1_CE130438_TangMinhTin\obj\Debug\netcoreapp3.1\LAB1_CE130438_TangMinhTin.genruntimeconfig.cache
