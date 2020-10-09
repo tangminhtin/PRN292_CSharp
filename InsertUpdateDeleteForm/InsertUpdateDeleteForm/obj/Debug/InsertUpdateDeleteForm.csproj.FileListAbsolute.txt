@@ -1,0 +1,10 @@
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\bin\Debug\InsertUpdateDeleteForm.exe.config
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\bin\Debug\InsertUpdateDeleteForm.exe
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\bin\Debug\InsertUpdateDeleteForm.pdb
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\obj\Debug\InsertUpdateDeleteForm.csprojAssemblyReference.cache
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\obj\Debug\InsertUpdateDeleteForm.frmMain.resources
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\obj\Debug\InsertUpdateDeleteForm.Properties.Resources.resources
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\obj\Debug\InsertUpdateDeleteForm.csproj.GenerateResource.cache
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\obj\Debug\InsertUpdateDeleteForm.csproj.CoreCompileInputs.cache
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\obj\Debug\InsertUpdateDeleteForm.exe
+E:\Sources\PRN292_CSharp\InsertUpdateDeleteForm\InsertUpdateDeleteForm\obj\Debug\InsertUpdateDeleteForm.pdb

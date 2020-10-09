@@ -1,0 +1,13 @@
+E:\Sources\PRN292_CSharp\FormServer\FormServer\bin\Debug\netcoreapp3.1\FormServer.exe
+E:\Sources\PRN292_CSharp\FormServer\FormServer\bin\Debug\netcoreapp3.1\FormServer.deps.json
+E:\Sources\PRN292_CSharp\FormServer\FormServer\bin\Debug\netcoreapp3.1\FormServer.runtimeconfig.json
+E:\Sources\PRN292_CSharp\FormServer\FormServer\bin\Debug\netcoreapp3.1\FormServer.runtimeconfig.dev.json
+E:\Sources\PRN292_CSharp\FormServer\FormServer\bin\Debug\netcoreapp3.1\FormServer.dll
+E:\Sources\PRN292_CSharp\FormServer\FormServer\bin\Debug\netcoreapp3.1\FormServer.pdb
+E:\Sources\PRN292_CSharp\FormServer\FormServer\obj\Debug\netcoreapp3.1\FormServer.csprojAssemblyReference.cache
+E:\Sources\PRN292_CSharp\FormServer\FormServer\obj\Debug\netcoreapp3.1\FormServer.AssemblyInfoInputs.cache
+E:\Sources\PRN292_CSharp\FormServer\FormServer\obj\Debug\netcoreapp3.1\FormServer.AssemblyInfo.cs
+E:\Sources\PRN292_CSharp\FormServer\FormServer\obj\Debug\netcoreapp3.1\FormServer.csproj.CoreCompileInputs.cache
+E:\Sources\PRN292_CSharp\FormServer\FormServer\obj\Debug\netcoreapp3.1\FormServer.dll
+E:\Sources\PRN292_CSharp\FormServer\FormServer\obj\Debug\netcoreapp3.1\FormServer.pdb
+E:\Sources\PRN292_CSharp\FormServer\FormServer\obj\Debug\netcoreapp3.1\FormServer.genruntimeconfig.cache

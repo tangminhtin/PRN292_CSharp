@@ -1,0 +1,10 @@
+E:\Sources\PRN292_CSharp\FormClient\FormClient\bin\Debug\FormClient.exe.config
+E:\Sources\PRN292_CSharp\FormClient\FormClient\bin\Debug\FormClient.exe
+E:\Sources\PRN292_CSharp\FormClient\FormClient\bin\Debug\FormClient.pdb
+E:\Sources\PRN292_CSharp\FormClient\FormClient\obj\Debug\FormClient.csprojAssemblyReference.cache
+E:\Sources\PRN292_CSharp\FormClient\FormClient\obj\Debug\FormClient.Properties.Resources.resources
+E:\Sources\PRN292_CSharp\FormClient\FormClient\obj\Debug\FormClient.csproj.GenerateResource.cache
+E:\Sources\PRN292_CSharp\FormClient\FormClient\obj\Debug\FormClient.csproj.CoreCompileInputs.cache
+E:\Sources\PRN292_CSharp\FormClient\FormClient\obj\Debug\FormClient.exe
+E:\Sources\PRN292_CSharp\FormClient\FormClient\obj\Debug\FormClient.pdb
+E:\Sources\PRN292_CSharp\FormClient\FormClient\obj\Debug\FormClient.frmChatClient.resources
