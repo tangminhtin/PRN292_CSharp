@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\bin\Debug\netcoreapp3.1\Multi_Thread.exe
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\bin\Debug\netcoreapp3.1\Multi_Thread.deps.json
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\bin\Debug\netcoreapp3.1\Multi_Thread.runtimeconfig.json
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\bin\Debug\netcoreapp3.1\Multi_Thread.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\bin\Debug\netcoreapp3.1\Multi_Thread.dll
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\bin\Debug\netcoreapp3.1\Multi_Thread.pdb
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\obj\Debug\netcoreapp3.1\Multi_Thread.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\obj\Debug\netcoreapp3.1\Multi_Thread.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\obj\Debug\netcoreapp3.1\Multi_Thread.AssemblyInfo.cs
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\obj\Debug\netcoreapp3.1\Multi_Thread.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\obj\Debug\netcoreapp3.1\Multi_Thread.dll
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\obj\Debug\netcoreapp3.1\Multi_Thread.pdb
+\\Mac\Home\Desktop\Multi_Thread\Multi_Thread\obj\Debug\netcoreapp3.1\Multi_Thread.genruntimeconfig.cache
