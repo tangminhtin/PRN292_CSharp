@@ -1,0 +1,13 @@
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\obj\Debug\netcoreapp3.1\MultiThreadSocketServer.csprojAssemblyReference.cache
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\obj\Debug\netcoreapp3.1\MultiThreadSocketServer.AssemblyInfoInputs.cache
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\obj\Debug\netcoreapp3.1\MultiThreadSocketServer.AssemblyInfo.cs
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\obj\Debug\netcoreapp3.1\MultiThreadSocketServer.csproj.CoreCompileInputs.cache
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\bin\Debug\netcoreapp3.1\MultiThreadSocketServer.exe
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\bin\Debug\netcoreapp3.1\MultiThreadSocketServer.deps.json
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\bin\Debug\netcoreapp3.1\MultiThreadSocketServer.runtimeconfig.json
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\bin\Debug\netcoreapp3.1\MultiThreadSocketServer.runtimeconfig.dev.json
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\bin\Debug\netcoreapp3.1\MultiThreadSocketServer.dll
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\bin\Debug\netcoreapp3.1\MultiThreadSocketServer.pdb
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\obj\Debug\netcoreapp3.1\MultiThreadSocketServer.dll
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\obj\Debug\netcoreapp3.1\MultiThreadSocketServer.pdb
+E:\Sources\PRN292_CSharp\MultiThreadSocket\MultiThreadSocketServer\MultiThreadSocketServer\obj\Debug\netcoreapp3.1\MultiThreadSocketServer.genruntimeconfig.cache

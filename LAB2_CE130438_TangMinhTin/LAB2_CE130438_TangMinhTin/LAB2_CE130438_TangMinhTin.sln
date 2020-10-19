@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB2_CE130438_TangMinhTin", "LAB2_CE130438_TangMinhTin\LAB2_CE130438_TangMinhTin.csproj", "{ABE015B5-35C0-4431-B692-ED9B33AA84E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB2_CE130438_TangMinhTin_Client", "LAB2_CE130438_TangMinhTin_Client\LAB2_CE130438_TangMinhTin_Client.csproj", "{4FECA4D0-D55F-49F4-98B5-060C80A54CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE015B5-35C0-4431-B692-ED9B33AA84E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE015B5-35C0-4431-B692-ED9B33AA84E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE015B5-35C0-4431-B692-ED9B33AA84E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE015B5-35C0-4431-B692-ED9B33AA84E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FECA4D0-D55F-49F4-98B5-060C80A54CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FECA4D0-D55F-49F4-98B5-060C80A54CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FECA4D0-D55F-49F4-98B5-060C80A54CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FECA4D0-D55F-49F4-98B5-060C80A54CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C0D03A1-8753-4359-BEE9-F22E650ED20F}
+	EndGlobalSection
+EndGlobal
