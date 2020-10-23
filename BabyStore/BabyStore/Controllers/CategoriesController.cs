@@ -18,7 +18,7 @@ namespace BabyStore.Controllers
         // GET: Categories
         public ActionResult Index()
         {
-            return View(db.categories.ToList());
+            return View(db.categories.OrderBy(c => c.Name).ToList());
         }
 
         // GET: Categories/Details/5
